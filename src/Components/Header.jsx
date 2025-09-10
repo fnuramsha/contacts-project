@@ -2,7 +2,7 @@ import React from "react";
 const Header = () => {
   return (
     <>
-      <div className="header">Manage Contacts</div>
+      <h2 className="fw-bold text-start">Manage Contacts</h2>
     </>
   );
 };
